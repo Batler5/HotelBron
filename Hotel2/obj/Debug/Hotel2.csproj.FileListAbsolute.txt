@@ -1,0 +1,71 @@
+C:\Users\danik\source\repos\Hotel2\Hotel2\bin\Debug\Hotel2.exe.config
+C:\Users\danik\source\repos\Hotel2\Hotel2\bin\Debug\Hotel2.exe
+C:\Users\danik\source\repos\Hotel2\Hotel2\bin\Debug\Hotel2.pdb
+C:\Users\danik\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.Form1.resources
+C:\Users\danik\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.Form2.resources
+C:\Users\danik\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.Properties.Resources.resources
+C:\Users\danik\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.csproj.GenerateResource.cache
+C:\Users\danik\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.exe
+C:\Users\danik\source\repos\Hotel2\Hotel2\obj\Debug\Hotel2.pdb
+C:\Users\danik\Desktop\Hotel2\Hotel2\bin\Debug\Hotel2.exe.config
+C:\Users\danik\Desktop\Hotel2\Hotel2\bin\Debug\Hotel2.exe
+C:\Users\danik\Desktop\Hotel2\Hotel2\bin\Debug\Hotel2.pdb
+C:\Users\danik\Desktop\Hotel2\Hotel2\obj\Debug\Hotel2.csproj.AssemblyReference.cache
+C:\Users\danik\Desktop\Hotel2\Hotel2\obj\Debug\Hotel2.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\Desktop\Hotel2\Hotel2\obj\Debug\Hotel2.Form1.resources
+C:\Users\danik\Desktop\Hotel2\Hotel2\obj\Debug\Hotel2.Form2.resources
+C:\Users\danik\Desktop\Hotel2\Hotel2\obj\Debug\Hotel2.Properties.Resources.resources
+C:\Users\danik\Desktop\Hotel2\Hotel2\obj\Debug\Hotel2.csproj.GenerateResource.cache
+C:\Users\danik\Desktop\Hotel2\Hotel2\obj\Debug\Hotel2.csproj.CoreCompileInputs.cache
+C:\Users\danik\Desktop\Hotel2\Hotel2\obj\Debug\Hotel2.exe
+C:\Users\danik\Desktop\Hotel2\Hotel2\obj\Debug\Hotel2.pdb
+C:\Users\danik\Desktop\Hotel3\Hotel2\bin\Debug\Hotel2.exe.config
+C:\Users\danik\Desktop\Hotel3\Hotel2\bin\Debug\Hotel2.exe
+C:\Users\danik\Desktop\Hotel3\Hotel2\bin\Debug\Hotel2.pdb
+C:\Users\danik\Desktop\Hotel3\Hotel2\obj\Debug\Hotel2.csproj.AssemblyReference.cache
+C:\Users\danik\Desktop\Hotel3\Hotel2\obj\Debug\Hotel2.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\Desktop\Hotel3\Hotel2\obj\Debug\Hotel2.Form1.resources
+C:\Users\danik\Desktop\Hotel3\Hotel2\obj\Debug\Hotel2.Form2.resources
+C:\Users\danik\Desktop\Hotel3\Hotel2\obj\Debug\Hotel2.Properties.Resources.resources
+C:\Users\danik\Desktop\Hotel3\Hotel2\obj\Debug\Hotel2.csproj.GenerateResource.cache
+C:\Users\danik\Desktop\Hotel3\Hotel2\obj\Debug\Hotel2.csproj.CoreCompileInputs.cache
+C:\Users\danik\Desktop\Hotel3\Hotel2\obj\Debug\Hotel2.exe
+C:\Users\danik\Desktop\Hotel3\Hotel2\obj\Debug\Hotel2.pdb
+d:\3 курс\Hotel4\Hotel2\bin\Debug\Hotel2.exe.config
+d:\3 курс\Hotel4\Hotel2\bin\Debug\Hotel2.exe
+d:\3 курс\Hotel4\Hotel2\bin\Debug\Hotel2.pdb
+d:\3 курс\Hotel4\Hotel2\obj\Debug\Hotel2.csproj.AssemblyReference.cache
+d:\3 курс\Hotel4\Hotel2\obj\Debug\Hotel2.Form1.resources
+d:\3 курс\Hotel4\Hotel2\obj\Debug\Hotel2.Form2.resources
+d:\3 курс\Hotel4\Hotel2\obj\Debug\Hotel2.Properties.Resources.resources
+d:\3 курс\Hotel4\Hotel2\obj\Debug\Hotel2.csproj.GenerateResource.cache
+d:\3 курс\Hotel4\Hotel2\obj\Debug\Hotel2.csproj.CoreCompileInputs.cache
+d:\3 курс\Hotel4\Hotel2\obj\Debug\Hotel2.exe
+d:\3 курс\Hotel4\Hotel2\obj\Debug\Hotel2.pdb
+C:\Users\danik\Desktop\Hotel5\Hotel2\bin\Debug\Hotel2.exe.config
+C:\Users\danik\Desktop\Hotel5\Hotel2\bin\Debug\Hotel2.exe
+C:\Users\danik\Desktop\Hotel5\Hotel2\bin\Debug\Hotel2.pdb
+C:\Users\danik\Desktop\Hotel5\Hotel2\obj\Debug\Hotel2.csproj.AssemblyReference.cache
+C:\Users\danik\Desktop\Hotel5\Hotel2\obj\Debug\Hotel2.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\Desktop\Hotel5\Hotel2\obj\Debug\Hotel2.Form1.resources
+C:\Users\danik\Desktop\Hotel5\Hotel2\obj\Debug\Hotel2.Form2.resources
+C:\Users\danik\Desktop\Hotel5\Hotel2\obj\Debug\Hotel2.Properties.Resources.resources
+C:\Users\danik\Desktop\Hotel5\Hotel2\obj\Debug\Hotel2.csproj.GenerateResource.cache
+C:\Users\danik\Desktop\Hotel5\Hotel2\obj\Debug\Hotel2.csproj.CoreCompileInputs.cache
+C:\Users\danik\Desktop\Hotel5\Hotel2\obj\Debug\Hotel2.exe
+C:\Users\danik\Desktop\Hotel5\Hotel2\obj\Debug\Hotel2.pdb
+E:\Hotel5\Hotel2\bin\Debug\Hotel2.exe.config
+E:\Hotel5\Hotel2\bin\Debug\Hotel2.exe
+E:\Hotel5\Hotel2\bin\Debug\Hotel2.pdb
+E:\Hotel5\Hotel2\obj\Debug\Hotel2.csproj.AssemblyReference.cache
+E:\Hotel5\Hotel2\obj\Debug\Hotel2.csproj.SuggestedBindingRedirects.cache
+E:\Hotel5\Hotel2\obj\Debug\Hotel2.Form1.resources
+E:\Hotel5\Hotel2\obj\Debug\Hotel2.Form2.resources
+E:\Hotel5\Hotel2\obj\Debug\Hotel2.Properties.Resources.resources
+E:\Hotel5\Hotel2\obj\Debug\Hotel2.csproj.GenerateResource.cache
+E:\Hotel5\Hotel2\obj\Debug\Hotel2.csproj.CoreCompileInputs.cache
+E:\Hotel5\Hotel2\obj\Debug\Hotel2.exe
+E:\Hotel5\Hotel2\obj\Debug\Hotel2.pdb

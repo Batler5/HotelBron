@@ -1,0 +1,39 @@
+C:\Users\danik\Desktop\Hotel2\ServerHotel\bin\Debug\ServerHotel.exe.config
+C:\Users\danik\Desktop\Hotel2\ServerHotel\bin\Debug\ServerHotel.exe
+C:\Users\danik\Desktop\Hotel2\ServerHotel\bin\Debug\ServerHotel.pdb
+C:\Users\danik\Desktop\Hotel2\ServerHotel\obj\Debug\ServerHotel.csproj.AssemblyReference.cache
+C:\Users\danik\Desktop\Hotel2\ServerHotel\obj\Debug\ServerHotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\Desktop\Hotel2\ServerHotel\obj\Debug\ServerHotel.csproj.CoreCompileInputs.cache
+C:\Users\danik\Desktop\Hotel2\ServerHotel\obj\Debug\ServerHotel.exe
+C:\Users\danik\Desktop\Hotel2\ServerHotel\obj\Debug\ServerHotel.pdb
+C:\Users\danik\Desktop\Hotel3\ServerHotel\bin\Debug\ServerHotel.exe.config
+C:\Users\danik\Desktop\Hotel3\ServerHotel\bin\Debug\ServerHotel.exe
+C:\Users\danik\Desktop\Hotel3\ServerHotel\bin\Debug\ServerHotel.pdb
+C:\Users\danik\Desktop\Hotel3\ServerHotel\obj\Debug\ServerHotel.csproj.AssemblyReference.cache
+C:\Users\danik\Desktop\Hotel3\ServerHotel\obj\Debug\ServerHotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\Desktop\Hotel3\ServerHotel\obj\Debug\ServerHotel.csproj.CoreCompileInputs.cache
+C:\Users\danik\Desktop\Hotel3\ServerHotel\obj\Debug\ServerHotel.exe
+C:\Users\danik\Desktop\Hotel3\ServerHotel\obj\Debug\ServerHotel.pdb
+d:\3 курс\Hotel4\ServerHotel\bin\Debug\ServerHotel.exe.config
+d:\3 курс\Hotel4\ServerHotel\bin\Debug\ServerHotel.exe
+d:\3 курс\Hotel4\ServerHotel\bin\Debug\ServerHotel.pdb
+d:\3 курс\Hotel4\ServerHotel\obj\Debug\ServerHotel.csproj.AssemblyReference.cache
+d:\3 курс\Hotel4\ServerHotel\obj\Debug\ServerHotel.csproj.CoreCompileInputs.cache
+d:\3 курс\Hotel4\ServerHotel\obj\Debug\ServerHotel.exe
+d:\3 курс\Hotel4\ServerHotel\obj\Debug\ServerHotel.pdb
+C:\Users\danik\Desktop\Hotel5\ServerHotel\bin\Debug\ServerHotel.exe.config
+C:\Users\danik\Desktop\Hotel5\ServerHotel\bin\Debug\ServerHotel.exe
+C:\Users\danik\Desktop\Hotel5\ServerHotel\bin\Debug\ServerHotel.pdb
+C:\Users\danik\Desktop\Hotel5\ServerHotel\obj\Debug\ServerHotel.csproj.AssemblyReference.cache
+C:\Users\danik\Desktop\Hotel5\ServerHotel\obj\Debug\ServerHotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\danik\Desktop\Hotel5\ServerHotel\obj\Debug\ServerHotel.csproj.CoreCompileInputs.cache
+C:\Users\danik\Desktop\Hotel5\ServerHotel\obj\Debug\ServerHotel.exe
+C:\Users\danik\Desktop\Hotel5\ServerHotel\obj\Debug\ServerHotel.pdb
+E:\Hotel5\ServerHotel\bin\Debug\ServerHotel.exe.config
+E:\Hotel5\ServerHotel\bin\Debug\ServerHotel.exe
+E:\Hotel5\ServerHotel\bin\Debug\ServerHotel.pdb
+E:\Hotel5\ServerHotel\obj\Debug\ServerHotel.csproj.AssemblyReference.cache
+E:\Hotel5\ServerHotel\obj\Debug\ServerHotel.csproj.SuggestedBindingRedirects.cache
+E:\Hotel5\ServerHotel\obj\Debug\ServerHotel.csproj.CoreCompileInputs.cache
+E:\Hotel5\ServerHotel\obj\Debug\ServerHotel.exe
+E:\Hotel5\ServerHotel\obj\Debug\ServerHotel.pdb
